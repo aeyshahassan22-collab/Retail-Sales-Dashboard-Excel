@@ -84,7 +84,7 @@ May revenue appears lower because the dataset contains partial-month sales data.
 
 ## Files
 
-- Retail_Dashboard.xlsx
+- cosmetics_retail_dataset.xlsx
 - dashboard_full.png
 - dashboard_fragrance.png
 - dashboard_highpoint.png
