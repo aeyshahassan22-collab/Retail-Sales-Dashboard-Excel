@@ -1,4 +1,5 @@
 # Retail-Sales-Dashboard-Excel
+Portfolio Project | Microsoft Excel | Retail Analytics | Dashboard Reporting
 An interactive Excel dashboard designed to analyse cosmetics retail performance across sales, profit, product categories, and stores. Features dynamic filtering, visualisations, and KPI tracking to support data-driven business decisions and performance monitoring.
 
 ## Overview
@@ -16,6 +17,21 @@ The objective was to create an interactive dashboard that enables stakeholders t
 - Analyse category-level sales trends
 - Identify top-performing products
 - Explore data dynamically using slicers
+
+## Dataset
+
+The dataset contains transactional cosmetics retail sales data across multiple stores, product categories, and months.
+
+Key fields include:
+
+- Order ID
+- Date
+- Store
+- Product Category
+- Product Name
+- Units Sold
+- Revenue
+- Profit
 
 ## Tools & Skills Used
 
@@ -36,7 +52,8 @@ The objective was to create an interactive dashboard that enables stakeholders t
 - Business Reporting
 - Data Visualisation
 
-## Dashboard KPIs
+
+## Key Performance Indicators (KPIs)
 
 | KPI | Value |
 |------|------|
@@ -69,6 +86,14 @@ Highpoint generated the highest revenue, while overall store performance remaine
 May revenue appears lower because the dataset contains partial-month sales data.
 
 ## Dashboard Preview
+## Dashboard Features
+
+- Interactive slicers for Store and Category filtering
+- Revenue and Profit KPI tracking
+- Monthly sales trend analysis
+- Product category performance analysis
+- Store-level performance comparison
+- Dynamic dashboard reporting
 
 ### Full Dashboard
 
@@ -89,6 +114,13 @@ May revenue appears lower because the dataset contains partial-month sales data.
 - dashboard_fragrance.png
 - dashboard_highpoint.png
 
+## Business Recommendations
+
+- Increase focus on Fragrance products due to strong revenue and profit contribution.
+- Expand inventory allocation for Perfume and Body Mist products.
+- Monitor lower-performing categories to identify growth opportunities.
+- Investigate Highpoint store strategies for replication across locations.
+  
 ## Project Outcome
 
 Developed an interactive retail analytics dashboard that enables users to analyse sales performance, profitability, product performance, and store-level trends through dynamic reporting and visualisation.
